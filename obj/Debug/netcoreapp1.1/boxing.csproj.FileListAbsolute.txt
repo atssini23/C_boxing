@@ -1,0 +1,8 @@
+/Applications/C#/boxing/bin/Debug/netcoreapp1.1/boxing.deps.json
+/Applications/C#/boxing/bin/Debug/netcoreapp1.1/boxing.runtimeconfig.json
+/Applications/C#/boxing/bin/Debug/netcoreapp1.1/boxing.runtimeconfig.dev.json
+/Applications/C#/boxing/bin/Debug/netcoreapp1.1/boxing.dll
+/Applications/C#/boxing/bin/Debug/netcoreapp1.1/boxing.pdb
+/Applications/C#/boxing/obj/Debug/netcoreapp1.1/boxing.AssemblyInfo.cs
+/Applications/C#/boxing/obj/Debug/netcoreapp1.1/boxing.dll
+/Applications/C#/boxing/obj/Debug/netcoreapp1.1/boxing.pdb
